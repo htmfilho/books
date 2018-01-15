@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-md-8">
+    <h1 class="post-title">Books</h1>
+    
+    <img src="/images/pages/family-reading.jpg" width="180px" align="left" style="margin-right: 10px;">
+
+    <p class="post-content">Books are among my greatest passions. I buy more books than I can possibly read.
+    I read books in a daily basis, but I know I will never catch up because I can't
+    help buying more and more. Here I share with you my reading experience. Come
+    back whenever you need a reading recommendation.</p>
+
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h2>Latest Review</h2>
+
+        <header class="post-header">
+          <h1 class="post-title">{{site.posts[0].title}} <small>by {{ site.posts[0].author }}</small></h1>
+          <span class="post-meta">{{ site.posts[0].date | date: "%b %-d, %Y" }}</span>
+        </header>
+
+        {% assign reviewed = site.data.books[0] %}
+        <div class="post-content" itemprop="articleBody">
+          <img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ reviewed.image }}" >
+          {{site.posts[0].content}}
+        </div>
+      </div>
+    </div>
+
+    <h2>Recent Reviews</h2>
+
+    <ul class="post-list">
+      {% for post in site.posts offset:1 limit:5 %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-md-4">
+    <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=hildebertocom" id="_carbonads_js"></script>
+    <br>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Bookshelf</h3>
+      </div>
+      <div class="panel-body">
+        <p>My bookshelf is organized chronologically, from the most recently read to the
+            oldest one. I try to compile here my favority books, the ones I've enjoyed
+            reading and would certainly recommend to you.</p>
+        <table class="table">
+          {% tablerow book in site.data.books limit:12 offset:2 cols:2 %}
+            <a target="blank" href="{{ book.link }}"><img border="0" src="{{ book.image }}"></a><img src="{{ book.another_image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+          {% endtablerow %}
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

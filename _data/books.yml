@@ -1,0 +1,398 @@
+- title: Functional thinking
+  author: Neal Ford
+  description: As a backend engineer, it is important for me to deal with
+    concurrency, paralelism, and the usage of resources. These subjects are so
+    complex that they forced functional programming to lift from its grave.
+    Shifting from object-oriented to functional is a challenge for a mind that
+    has been strugling with objects, design patterns and good practices since
+    2002. Dispite having some practice programming in Clojure, a functional
+    language, I hope to consolidate my knowledge starting from this book, which
+    shows that the main challenge to master a functional language is not the
+    syntax, but the paradigm.
+  link: https://www.amazon.com/gp/product/1449365515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449365515&linkCode=as2&tag=c03ce-20&linkId=ebebe602d6240e6b33784bb2de8a06e4
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1449365515&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1449365515
+
+- title: Head Strong
+  author: Dave Asprey
+  description: <p>In the book <a href="http://calnewport.com/books/deep-work/"
+    target="_blank">Deep Work</a>, I've learned the behavioral aspect of
+    concentration, but there is also the physiological one, which is the quality
+    of chemical reactions in the brain!</p>
+
+    <p>Well, Head Strong is provocative. If you aren't open to challenge your
+    prestablished concepts you may find difficult to finish it. I have finished 
+    it because I like to test my ideas with people I disagree with. It is quite
+    comforting to keep some of my beliefs, but it is also constructive to change 
+    a bit as well.</p>
+
+    <p>Reading Head Strong is like reading a programming language book. You
+    enjoy learning a new language but you know that the book will be outdated
+    soon due to the fast progress of the technology. In the case of Head Strong,
+    the fast progress of science. The author is sure about things that may not
+    be true anymore in a matter of years, months or even days.</p>
+
+    <p>The book is clearly selling a product called "Bullet Proof Diet". The
+    problem with diets is that even when we fell good with the results in the
+    short term, we don't stick to them for too long. This is due to the fact
+    that radical changes are disturbing and depressing. Changes are more
+    realistic when made in small and consistent doses over time. I remember one
+    year ago, when I went to restaurants and didn't even look at the salads in
+    the menu. Nowadays, I look at the salads and ignore the rest. This is an
+    educated change that built new habits over the period of one year. Anyway,
+    the book is good because it's informative, but we have to be careful about
+    some fragile arguments since people don't radically change in two weeks
+    (unless they are forced or in big trouble).</p>
+
+  link: https://www.amazon.com/gp/product/0062652419/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062652419&linkCode=as2&tag=c03ce-20&linkId=f8b3e1d9484b14bfd6865a41e0b18778
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0062652419&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0062652419
+
+- title: The First 90 Days
+  author: Michael D. Watkins
+  description: <p>One of the concerns we have in a new job is how long it might
+    take to fulfill the expectations of the company. We try to work hard, learn
+    fast, be disciplined to be rapidly recognized, but are we doing it right?
+    That's a Harvard Business Review book, considered an international
+    bestseller and improved from its original release in 2003.</p>
+
+    <p>I have to agree this book is valuable and useful, but it is extremely
+    boring to read. I had a hard time to finish it, which was a different
+    experience from the last 2 books. Now, I'm relieved that I have it just as
+    a reference book, to be used when a transition actually happens.</p>
+
+    <p>Despite the generic title, this is a book for managers. If you aren't
+    going to lead a team, a unit or a company, don't buy this book unless you
+    want to get ready for your future boss.</p>
+
+    <p>Here are the top 10 lessons learned from the book:</p>
+
+    <ol>
+      <li>My goal in my next transition is to get as rapidly as possible to the
+      break-even point, which is the point at which I have contributed as much
+      value to my new organization as I have consumed from it.</li>
+
+      <li>Success in the new role requires me to stop doing some things and to
+      embrace new competencies.</li>
+
+      <li>The complexity and ambiguity of the issues I'm dealing with increase
+      every time I get promoted. The decision making game becomes much more
+      bruising and politically charged the higher up you go.</li>
+
+      <li>Joining a new company is like an organ transplant. As a new organ, if
+      I'm not thoughtful in adapting to the new situation, I could end up being
+      rejected by the organizational immune system.</li>
+
+      <li>If I score high on technical interests and low on cultural or
+      political interests, I might be at risk of overlooking the human side of
+      the organizational equation.</li>
+
+      <li>It is essential to figure out what I need to know about my new
+      organization and then do learn it as rapidly as I can. The more
+      efficiently and effectively I learn, the more quickly I will close my
+      window of vulnerability.</li>
+
+      <li>The faster I climb the learning curve, the earlier I can begin to make
+      good business decisions.</li>
+
+      <li>Mission is about what will be achieved, vision is about why people
+      should feel motivated to perform at a high level, and strategy is about
+      how resources should be allocated and decisions made to accomplish the
+      mission.</li>
+
+      <li>Process analysis stimulates collective learning. It helps the entire
+      group understand exactly who does what, within and between units or
+      groups, to carry out a particular process. Creating a process map also
+      sheds light on how best to improve the process.</li>
+
+      <li>The best onboarding system can't compensate from the sins of poor
+      recruiting. If the company hires people who aren't likely to fit with the
+      culture, then litle can be done to reduce the risk of derailment
+      through onboarding.</li>
+    </ol>
+
+    <p>In conclusion, I found the book conservative, a bit outdated in relation
+    to recent advances in organizational culture and practices (have you read
+    the book <a href="https://37signals.com/rework" target="_blank">Rework</a>
+    ?). I also found it too cold, like the human side of the manager was not
+    there, because it gave the impression that downsizing a team was actually a
+    simple decision to make. But the bad parts don't diminish the good ones.</p>
+
+  link: https://www.amazon.com/gp/product/1422188612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1422188612&linkCode=as2&tag=c03ce-20&linkId=2dc0cc5b7a87feee132a5990ccc0ecf3
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1422188612&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1422188612
+
+- title: Deep Work
+  author: Cal Newport
+  description: <p>If somebody asks me about my defects, I would instinctively
+    answer I'm a victim of a world of distractions. This book is what I did to
+    mitigate that.</p>
+
+    <p>Cal Newport is a very smart guy. He wrote a book that practically targets
+    everybody. Who doesn't have a certain level of attention deficit in a
+    increasing distracted world ? As a software engineer professional, I'm in
+    contact with computers all day long and there is nothing more distracting
+    than a device connected to the internet.</p>
+
+    <p>As I read the book, I was progressively realizing the amount of time I
+    was wasting with my choices, decisions and attitudes. I was also gradually
+    adopting the recommended practices, even involuntarily during the day. Some
+    of the things that changed in my routine are:</p>
+
+    <ul>
+      <li>IT professionals usually have multiple screens to show several tools
+      at the same time. I decided to drop my 2 x 27' screens in favor of my
+      laptop built-in screen. Now, I focus one thing at a time, reducing
+      distraction.</li>
+
+      <li>I disabled all automatic notifications on my laptop.</li>
+
+      <li>I listen to calm and relaxing music during the day to cancel the noise
+      around.</li>
+
+      <li>I uninstalled all social apps from my mobile phone. Now I have to be
+      in a desktop computer to use them. I also decided to be reactive,
+      accessing only in case of family and close frieds notifications, instead
+      of actively navigating through the timeline and giving feedback as a
+      primary thing to do. My frequence of use has been droping latelly because
+      of this atitude.</li>
+
+      <li>I spend more time with family and practice sports 4 times per week to
+      be constructively off-line from deep work.</li>
+
+      <li>We are selling everything we don't use anymore and discarding other
+      things in an environmental friendly way. It helps to get rid of
+      distractions and save some time cleaning and organizing the house.</li>
+    </ul>
+
+    <p>As a drawback, the book talks too much about negative things that
+    normally happens to everybody, but it got me distracted all the time,
+    thinking of my own problems. I frequently lost focus on the reading. I had
+    to get in meditation mood to be able to finish the book.</p>
+
+    <p>In summary, the book is very good and recommended for those wishing a day
+    with 30 hours.</p>
+  link: https://www.amazon.com/gp/product/1455586692/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455586692&linkCode=as2&tag=c03ce-20&linkId=e7d40c17bb1ef3f4b93753c9fb47f269
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1455586692&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1455586692
+
+- title: The Beauty of Discomfort
+  author: Amanda Lang
+  description: <p>My family and I spent wonderful holidays in Canada this year
+    and I found this book in a Toronto bookstore, writen by a Canadian
+    bestselling author. Amanda proves her point about discomfort by telling
+    stories of people who have endured through their challenging achievements.
+    She made sure the stories were sufficiently different to cover most aspects
+    of discomfort. After finishing the book, it was clear to me that discomfort
+    is actually a personal game changer, but there is no beauty in it. So,
+    "Discomfort" would be enough as a title.</p>
+
+    <p>It was a pleasure to read this book. The text was really straight,
+    written in a journalistic style, almost like a modern documentary, crafted
+    to attract reader's attention.</p>
+
+    <p>I'm currently going through several changing processes, facing discomfort
+    in many levels. By reading this book I found the necessary assurance that
+    all I'm going through will effectively bring the results I'm looking for. I
+    just have to be patient, given that patience is another form of
+    discomfort.</p>
+  link: https://www.amazon.com/gp/product/1443449849/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1443449849&linkCode=as2&tag=c03ce-20&linkId=f6179be8171cef0d87ec66171359fcfd
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1443449849&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1443449849
+
+- title: Your Code as a Crime Scene
+  author: Adam Tornhill
+  description: <p>The book is good at investigating design issues, but not good
+    at solving them. Problems are exposed, but not discussed. The tools
+    presented aren't more than scripts that have to be executed manually and in
+    the right sequence. There is no dashboard or some sort of continuous
+    automated analysis to show the progress of the actions taken after the
+    diagnosis.</p>
+
+    <p>The text emphasizes the approach of analyzing the history of changes in
+    files based on version control logs, but I personally think that all
+    diagnosis shown in the book can also be done by a static analysis tool like
+    SonaQube.</p>
+
+    <p>Chapter 10, "Use Beauty as a Guiding Principle", was the most relevant
+    chapter for me. It really opened my mind to some aspects of programming. It
+    made the book worth reading.</p>
+  link: https://www.amazon.com/gp/product/1680500384/ref=as_li_tl?ie=UTF8&tag=c03ce-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1680500384&linkId=751044a1d3428473450283c75ebbad1e
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1680500384&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1680500384
+
+- title: Programming Beyond Practices
+  author: Gregory T. Brown
+  description: Excellent book! Quite thin but valuable. The author explores the
+    topics, which go from requirements discovery and rapid prototyping to
+    business analysis and design for maintainability, describing real world
+    situations. It is in the same category of The Phoenix Project and The Goal,
+    but with more technical details and organized in short stories, instead of a
+    long novel.
+  link: https://www.amazon.com/gp/product/B01LYRCGA8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LYRCGA8&linkCode=as2&tag=c03ce-20&linkId=4723ca13b811faedab0b1b51b1ce654c
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LYRCGA8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=B01LYRCGA8
+
+- title: Unusual Uses For Olive Oil
+  author: Alexander McCall Smith
+  description: Excellent book indeed! It's actually a big surprise to read a
+    book published in 2011 that sounds like a classical from the 30's. It uses
+    an irreproachable British English, with a modern vocabulary, of course. The
+    characters have a provincial behaviour, running stories full of naiveness
+    and simplicity, which are the main ingredients of this great comedy.
+    Recommended!
+  link: https://www.amazon.com/gp/product/0307279898/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307279898&linkCode=as2&tag=c03ce-20&linkId=dfde8a4fec2064d4afa13a0335e4af84
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0307279898&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0307279898
+
+- title: The Wave
+  author: Todd Strasser
+  description: Now I understand why and how some people follow believe systems
+    that completely ignore facts. Very good and short read!
+  link: https://www.amazon.com/gp/product/0440993717/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0440993717&linkCode=as2&tag=c03ce-20&linkId=2176556b797a7ef456c3272aa04889c1
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0440993717&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0440993717
+
+- title: The Cicle
+  author: Dave Eggers
+  description: The book has a point, a very valid point about lack of privacy
+    that leads to totalitarianism, but it was so badly written, with so fragile
+    arguments. That's like using StarWars to show democracy is good, but no body
+    thinks about politics when watching StarWars. The stories were hard to
+    believe, weakly founded, almost scientific fiction, to show that social
+    networking may have some sort of hipnotic power over the population while
+    robotics might be the real threat nowadays.
+  link: https://www.amazon.com/gp/product/0345807294/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345807294&linkCode=as2&tag=c03ce-20&linkId=4896ff42d83878b12f02554c15c8911d
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0345807294&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0345807294
+
+- title: What If?
+  author: Randall Munroe
+  description: Very, very entertaining book for geeks! You will laugh a lot with
+    highly cleaver jokes based on serious science. Recommended!
+  link: https://www.amazon.com/gp/product/0544272994/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544272994&linkCode=as2&tag=c03ce-20&linkId=b502bc18d58655b1463af0cadcfd11a1
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0544272994&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0544272994
+
+- title: The Goldfinch
+  author: Donna Tartt
+  description: Very good, but a bit tiring. It could be heavily summarized
+    without any prejudice for the literary world. Recommend.
+  link: https://www.amazon.com/gp/product/0316055441/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316055441&linkCode=as2&tag=c03ce-20&linkId=ea30b5e22c70740fd954bc3991632897
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0316055441&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0316055441
+
+- title: The Martian
+  author: Andy Weir
+  description: Excellent! The best book I've ever read! Attention to details,
+    suspense, lots of rocket science, funny and intelligent. Better than the
+    movie.
+  link: https://www.amazon.com/gp/product/0553418025/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553418025&linkCode=as2&tag=c03ce-20&linkId=29f99d684ccabd73ebdc332f716d5c10
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0553418025&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0553418025
+
+- title: This Is Me
+  author: Ian Thorpe
+  description: Very good book! Despite been labeled as an autobiography and
+    written in first person, the book was actually written by a English ghost
+    writer. Ian lost a great opportunity to be honest about his sexuality. But
+    that's OK because I've learned a good deal of swimming techniques and the
+    mindset of a champion.
+  link: https://www.amazon.com/gp/product/1471101231/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1471101231&linkCode=as2&tag=c03ce-20&linkId=93fa9cf23c7306a13e2128f5ab08545a
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1471101231&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1471101231
+
+- title: SuperFreakonomics
+  author: Steven D. Levitt & Steven J. Dubner
+  description: Very good book! Very addictive. It made me think twice before
+    every conclusion. Recommend.
+  link: https://www.amazon.com/gp/product/0060889586/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060889586&linkCode=as2&tag=c03ce-20&linkId=3cdc0686ccfbb906887ccb7502d18d7d
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0060889586&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0060889586
+
+- title: Gray Mountain
+  author: John Grisham
+  description: A book written for a specific target, which may not interest
+    someone living outside USA. A very boring reading with almost no suspense,
+    predictable.
+  link: https://www.amazon.com/gp/product/038553714X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=038553714X&linkCode=as2&tag=c03ce-20&linkId=25a4c4903ea71f494e3fe802ab031d3b
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=038553714X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=038553714X
+
+- title: The Lost Symbol
+  author: Dan Brown
+  description: I gave 3 stars because the book is good, but it was a bit
+    disappointing in the end. Some people may like the end. It is quite
+    philosophical and makes totally sense, but it is not my cup of tea.
+  link: https://www.amazon.com/gp/product/0385504225/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385504225&linkCode=as2&tag=c03ce-20&linkId=2252074382669ed0fe9cd63ca7b29bed
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385504225&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0385504225
+
+- title: Fernão Capelo Gaivota
+  author: Richard Bach
+  description: It would be selfish to review this book by its literary and
+    artistic characteristics, which are a bit poor, comparable to Paulo Coelho
+    popular style. I would heather evaluate it by its existence because I'm sure
+    there are a lot of people out there that need to read this words.
+  link: https://www.amazon.com/gp/product/8501060496/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8501060496&linkCode=as2&tag=c03ce-20&linkId=9c877b4bbe4c78741f0868d5a7ab5279
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=8501060496&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=8501060496
+
+- title: Web Development With Clojure
+  author: Dmitri Sotnikov
+  description:
+  link: https://www.amazon.com/gp/product/1937785645/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785645&linkCode=as2&tag=c03ce-20&linkId=1cfc2eed3828077d17b62119f7b2016d
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1937785645&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1937785645
+
+- title: The Girl On The Train
+  author: Paula Hawkins
+  description:
+  link: https://www.amazon.com/gp/product/1594634025/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594634025&linkCode=as2&tag=c03ce-20&linkId=7da09bb01831eb01baa9e6b295f636f9
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1594634025&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1594634025
+
+- title: The Bourne Identity
+  author: Robert Ludlum
+  description:
+  link: https://www.amazon.com/gp/product/0553593544/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553593544&linkCode=as2&tag=c03ce-20&linkId=65d66117cc715222801d3a102b1e76d8
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0553593544&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0553593544
+
+- title: The Bookshop
+  author: Penelope Fitzgerald
+  description: Funny story, but not worth reading, I'm afraid. This book actually
+    convinced me to read another book - Lolita - which I have in my bookshelf,
+    but never found motivation to read yet. Now I do.
+  link: https://www.amazon.com/gp/product/0006543545/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0006543545&linkCode=as2&tag=c03ce-20&linkId=68a8d440912995262893b88db39c4edc
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0006543545&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0006543545
+
+- title: The Curious Incident Of The Dog In The Night-Time
+  author: Mark Haddon
+  description:
+  link: https://www.amazon.com/gp/product/1400032717/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400032717&linkCode=as2&tag=c03ce-20&linkId=631e6da6e6435d56015896e24fed8e78
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1400032717&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1400032717
+
+- title: To Kill a Mockingbird
+  author: Harper Lee
+  description:
+  link: https://www.amazon.com/gp/product/0060935464/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060935464&linkCode=as2&tag=c03ce-20&linkId=f614fd9a6ef79f3c52d4ba3a223f4013
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0060935464&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0060935464
+
+- title: "The Lean Startup: How Constant Innovation Creates Radically Successful Businesses"
+  author: Eric Ries
+  description:
+  link: https://www.amazon.com/gp/product/0307887898/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=c03ce-20&linkId=d3cc36720ee41f0da6798a369d2df87c
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0307887898&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0307887898
+
+- title: "You Write, They Pay: How to Build a Thriving Writing Business from NOTHING!"
+  author: Susan Anderson
+  description: I'm not planning to do that, but I certainly know how to do it
+    now. Very good book. Recommended.
+  link: https://www.amazon.com/gp/product/1942761686/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1942761686&linkCode=as2&tag=c03ce-20&linkId=d7659d32e3e6402aa8993e1712cc9aba
+  image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1942761686&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+  another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1942761686

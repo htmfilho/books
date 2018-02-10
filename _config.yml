@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   interests. I don't represent the views of my employer or clients. I do my best
   to publish exclusive content, which usually comes out after some research or
   thoughts of my own.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/books" # the subpath of your site, e.g. /blog
 url: "http://www.hildeberto.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:title.html
 excerpt_separator: "<!-- more -->"

@@ -6,7 +6,7 @@ layout: default
   <div class="col-md-8">
     <h1 class="post-title">Books</h1>
     
-    <img src="/images/pages/family-reading.jpg" width="180px" align="left" style="margin-right: 10px;">
+    <img src="{{ "/images/pages/family-reading.jpg" | relative_url }}" width="180px" align="left" style="margin-right: 10px;">
 
     <p class="post-content">Books are among my greatest passions. I buy more books than I can possibly read.
     I read books in a daily basis, but I know I will never catch up because I can't
@@ -32,16 +32,14 @@ layout: default
 
     <h2>Recent Reviews</h2>
 
-    <ul class="post-list">
-      {% for post in site.posts offset:1 limit:5 %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
+    <table class="table">
+      {% tablerow post in site.posts limit:4 offset:2 cols:2 %}
+        <a href="{{ post.link }}"><img border="0" src="{{ post.image }}" width="42" align="left" style="margin-right: 10px;"></a><img src="{{ post.another_image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <br>
+      {% endtablerow %}
+    </table>
   </div>
   <div class="col-md-4">
     <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=hildebertocom" id="_carbonads_js"></script>

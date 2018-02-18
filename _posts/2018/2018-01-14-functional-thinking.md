@@ -8,6 +8,8 @@ categories: functional programming book
 
 Neal is really good at explaining functional concepts, but I think he exagerated exploring 4 programming languages in just 157 pages. The book's cover uses the expression "Paradigm over syntax" to sustain the thesis that learning a new programming language is easy, but learning a new paradigm is difficult. But Neal spent more time explaining the syntax of those languages than the paradigm itself. Their differences are so acentuated that I felt easier to learn the functional concepts than all the syntax differences to implement them among all those languages. In my opinion, programming languages are difficult by nature,otherwise I would learn [Haskell] in no time, with all the functional concepts I already know, but it doesn't seen to help. We take years to master a programming language as well as its ecosystem.
 
+![Learning a programming language](/images/posts/programming.jpg)
+
 I think the book would be more effective if it consistently followed the pattern:
 
 1. explore a problem in an imperative way

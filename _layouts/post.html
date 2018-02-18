@@ -40,21 +40,17 @@ layout: default
     <br>
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">Recent Posts</h3>
+        <h3 class="panel-title">Recent Reviews</h3>
       </div>
       <div class="panel-body">
-        <ul class="post-list">
-          {% for post in site.posts limit:15 %}
-            {% if post.title != page.title %}
-              <li>
-                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                <h3>
-                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h3>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
+          <div class="list-group">
+            {% for post in site.posts limit:5 %}
+              <a href="{{ post.link }}"><img border="0" src="{{ post.image }}" width="42" align="left" style="margin-right: 10px;"></a><img src="{{ post.another_image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              <br>
+            {% endfor %}
+          </div>
       </div>
     </div>
   </div>

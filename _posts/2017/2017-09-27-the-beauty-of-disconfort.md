@@ -9,7 +9,7 @@ image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=
 another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1443449849
 ---
 
-My family and I spent wonderful holidays in Canada this year and I found this book in a Toronto bookstore, writen by a Canadian bestselling author. Amanda proves her point about discomfort by telling stories of people who have endured through their challenging achievements. She made sure the stories were sufficiently different to cover most aspects of discomfort. After finishing the book, it was clear to me that discomfort is actually a personal game changer, but there is no beauty in it. So, "Discomfort" would be enough as a title.
+My family and I spent wonderful holidays in Canada this year and I found this book in a Toronto bookstore, written by a Canadian bestselling author. Amanda proves her point about discomfort by telling stories of people who have endured through their challenging achievements. She made sure the stories were sufficiently different to cover most aspects of discomfort. After finishing the book, it was clear to me that discomfort is actually a personal game changer, but there is no beauty in it. So, "Discomfort" would be enough as a title.
 
 It was a pleasure to read this book. The text was really straight, written in a journalistic style, almost like a modern documentary, crafted to attract reader's attention.
 

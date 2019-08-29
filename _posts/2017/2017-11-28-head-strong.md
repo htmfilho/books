@@ -11,7 +11,7 @@ another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=006265241
 
 In the book [Deep Work][deep-work], I've learned the behavioral aspect of     concentration, but there is also the physiological one, which is the quality of chemical reactions in the brain!
 
-Well, Head Strong is provocative. If you aren't open to challenge your prestablished concepts you may find difficult to finish it. I have finished it because I like to test my ideas with people I disagree with. It is quite comforting to keep some of my beliefs, but it is also constructive to change a bit as well.
+Well, Head Strong is provocative. If you aren't open to challenge your preestablished concepts you may find difficult to finish it. I have finished it because I like to test my ideas with people I disagree with. It is quite comforting to keep some of my beliefs, but it is also constructive to change a bit as well.
 
 Reading Head Strong is like reading a programming language book. You enjoy learning a new language but you know that the book will be outdated soon due to the fast progress of the technology. In the case of Head Strong, the fast progress of science. The author is sure about things that may not be true anymore in a matter of years, months or even days.
 

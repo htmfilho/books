@@ -35,7 +35,7 @@ Here are the top 10 lessons learned from the book:
 
 9. Process analysis stimulates collective learning. It helps the entire group understand exactly who does what, within and between units or groups, to carry out a particular process. Creating a process map also sheds light on how best to improve the process.
 
-10. The best onboarding system can't compensate from the sins of poor recruiting. If the company hires people who aren't likely to fit with the culture, then litle can be done to reduce the risk of derailment through onboarding.
+10. The best onboarding system can't compensate from the sins of poor recruiting. If the company hires people who aren't likely to fit with the culture, then little can be done to reduce the risk of derailment through onboarding.
 
 In conclusion, I found the book conservative, a bit outdated in relation to recent advances in organizational culture and practices (have you read the book [Rework][rework] ?). I also found it too cold, like the human side of the manager was not there, because it gave the impression that downsizing a team was actually a simple decision to make. But the bad parts don't diminish the good ones.
 

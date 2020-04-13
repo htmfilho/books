@@ -5,7 +5,7 @@ author: Dave Asprey
 progress: 100
 date: 2017-11-28 12:00:00 +0200
 categories: health
-link: https://www.amazon.com/gp/product/0062652419/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062652419&linkCode=as2&tag=c03ce-20&linkId=f8b3e1d9484b14bfd6865a41e0b18778
+link: https://amzn.to/2wAGggK
 image: /books/images/posts/head-strong.jpeg
 ---
 

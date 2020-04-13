@@ -5,7 +5,7 @@ author: Neal Ford
 progress: 100
 date: 2018-01-07 12:00:00 +0200
 categories: functional programming book
-link: https://www.amazon.com/gp/product/1449365515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449365515&linkCode=as2&tag=c03ce-20&linkId=ebebe602d6240e6b33784bb2de8a06e4
+link: https://amzn.to/3b9HRJE
 image: /books/images/posts/functional-thinking.jpg
 ---
 

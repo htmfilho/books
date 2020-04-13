@@ -5,7 +5,7 @@ author: Michael D. Watkins
 progress: 100
 date: 2017-11-05 12:00:00 +0200
 categories: management
-link: https://www.amazon.com/gp/product/1422188612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1422188612&linkCode=as2&tag=c03ce-20&linkId=2dc0cc5b7a87feee132a5990ccc0ecf3
+link: https://amzn.to/2V5eZwt
 image: /books/images/posts/the-first-90-days.jpeg
 ---
 

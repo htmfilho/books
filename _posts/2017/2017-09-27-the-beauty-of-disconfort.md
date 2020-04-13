@@ -5,7 +5,7 @@ author: Amanda Lang
 progress: 100
 date: 2017-09-27 12:00:00 +0200
 categories: discomfort behavior
-link: https://www.amazon.com/gp/product/1443449849/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1443449849&linkCode=as2&tag=c03ce-20&linkId=f6179be8171cef0d87ec66171359fcfd
+link: https://amzn.to/2Xzo7uS
 image: /books/images/posts/the-beauty-of-discomfort.jpg
 ---
 

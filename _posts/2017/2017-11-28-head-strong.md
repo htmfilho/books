@@ -6,7 +6,6 @@ date: 2017-11-28 12:00:00 +0200
 categories: health
 link: https://www.amazon.com/gp/product/0062652419/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062652419&linkCode=as2&tag=c03ce-20&linkId=f8b3e1d9484b14bfd6865a41e0b18778
 image: /books/images/posts/head-strong.jpeg
-another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=0062652419
 ---
 
 In the book [Deep Work][deep-work], I've learned the behavioral aspect of     concentration, but there is also the physiological one, which is the quality of chemical reactions in the brain!

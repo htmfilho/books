@@ -9,20 +9,22 @@ layout: null
         <link>{{ site.url }}</link>
         <description>{{ site.description }}</description>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-        {% for post in site.posts %}
-        <entry>
-            <title>{{ post.title }}</title>
-            <author>{{ post.author }}</author>
-            <progress>{{ post.progress }}</progress>
-            <summary>
-                {{ post.content | escape | truncate: '400' }}
-            </summary>
-            <image>{{ post.image }}</image>
-            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-            <link>
-                {{ post.url | prepend: site.url }}
-            </link>
-        </entry>
+        {% for post in site.posts limit:3 %}
+          {% if post.process < 100 %}
+            <entry>
+                <title>{{ post.title }}</title>
+                <author>{{ post.author }}</author>
+                <progress>{{ post.progress }}</progress>
+                <summary>
+                    {{ post.content | escape | truncate: '400' }}
+                </summary>
+                <image>{{ post.image }}</image>
+                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+                <link>
+                    {{ post.url | prepend: site.url }}
+                </link>
+            </entry>
+          {% endif %}
         {% endfor %}
     </channel>
 </rss>

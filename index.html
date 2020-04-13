@@ -48,7 +48,7 @@ layout: default
         <p>My bookshelf is organized chronologically, from the most recently read to the oldest one. I try to compile here my favorities, the ones I would certainly recommend to you.</p>
         <table class="table">
           {% tablerow book in site.data.books limit:12 offset:2 cols:2 %}
-            <a target="blank" href="{{ book.link }}"><img border="0" src="{{ book.image }}"></a><img src="{{ book.image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+            <a target="_blank" href="{{ book.link }}"><img border="0" src="{{ book.image }}"></a><img src="{{ book.image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
           {% endtablerow %}
         </table>
       </div>

@@ -4,7 +4,6 @@ layout: null
 
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-
     <channel>
         <title>{{ site.title }}</title>
         <link>{{ site.url }}</link>
@@ -12,9 +11,13 @@ layout: null
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         {% for post in site.posts %}
         <item>
+            <item>{{ post.title }}</item>
+            <author>{{ post.author }}</author>
+            <progress>{{ post.progress }}</progress>
             <description>
                 {{ post.content | escape | truncate: '400' }}
             </description>
+            <image>{{ post.image }}</image>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <guid>
                 {{ post.url | prepend: site.url }}

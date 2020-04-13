@@ -12,17 +12,19 @@ layout: default
 
     <div class="panel panel-default">
       <div class="panel-body">
-        <h2>Latest Review</h2>
+        <h2>Latest Reviews</h2>
 
-        <header class="post-header">
-          <h1 class="post-title">{{site.posts[0].title}} <small>by {{ site.posts[0].author }}</small></h1>
-          <span class="post-meta">{{ site.posts[0].date | date: "%b %-d, %Y" }}</span>
-        </header>
+        {% for post in site.posts limit:2 %}
+          <header class="post-header">
+            <h1 class="post-title">{{post.title}} <small>by {{ post.author }}</small></h1>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </header>
 
-        <div class="post-content" itemprop="articleBody">
-          <img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ site.posts[0].image }}" >
-          {{site.posts[0].content}}
-        </div>
+          <div class="post-content" itemprop="articleBody">
+            <img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ site.posts[0].image }}" >
+            {{post.content}}
+          </div>
+        {% endfor %}
       </div>
     </div>
 

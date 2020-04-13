@@ -5,7 +5,7 @@ author: Neal Ford
 date: 2018-01-07 12:00:00 +0200
 categories: functional programming book
 link: https://www.amazon.com/gp/product/1449365515/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449365515&linkCode=as2&tag=c03ce-20&linkId=ebebe602d6240e6b33784bb2de8a06e4
-image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1449365515&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+image: /books/images/posts/functional-thinking.jpg
 another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1449365515
 ---
 

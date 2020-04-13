@@ -5,7 +5,7 @@ author: Michael D. Watkins
 date: 2017-11-05 12:00:00 +0200
 categories: management
 link: https://www.amazon.com/gp/product/1422188612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1422188612&linkCode=as2&tag=c03ce-20&linkId=2dc0cc5b7a87feee132a5990ccc0ecf3
-image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1422188612&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+image: /books/images/posts/the-first-90-days.jpeg
 another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1422188612
 ---
 

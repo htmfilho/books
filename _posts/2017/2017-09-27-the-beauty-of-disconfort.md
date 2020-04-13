@@ -5,7 +5,7 @@ author: Amanda Lang
 date: 2017-09-27 12:00:00 +0200
 categories: discomfort behavior
 link: https://www.amazon.com/gp/product/1443449849/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1443449849&linkCode=as2&tag=c03ce-20&linkId=f6179be8171cef0d87ec66171359fcfd
-image: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1443449849&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=c03ce-20
+image: /books/images/posts/the-beauty-of-discomfort.jpg
 another_image: //ir-na.amazon-adsystem.com/e/ir?t=c03ce-20&l=am2&o=1&a=1443449849
 ---
 

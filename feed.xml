@@ -11,8 +11,8 @@ layout: null
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         {% for post in site.posts %}
           <item>
-              <title>{{ post.title }}</title>
               <author>{{ post.author }}</author>
+              <title>{{ post.title }}</title>
               <progress>{{ post.progress }}</progress>
               <description>
                   {{ post.content | escape | truncate: '400' }}

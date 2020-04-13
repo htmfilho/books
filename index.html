@@ -8,10 +8,7 @@ layout: default
 
     <img src="{{ "/images/pages/family-reading.jpg" | relative_url }}" width="180px" align="left" style="margin-right: 10px;">
 
-    <p class="post-content">Books are among my greatest passions. I buy more books than I can possibly read.
-    I read books in a daily basis, but I know I will never catch up because I can't
-    help buying more and more. Here I share with you my reading experience. Come
-    back whenever you need a reading recommendation.</p>
+    <p class="post-content">Books are among my greatest passions. I buy more books than I can possibly read. I read books in a daily basis, but I know I will never catch up because I can't help buying more and more. Here I share with you my reading experience. Come back whenever you need a reading recommendation.</p>
 
     <div class="panel panel-default">
       <div class="panel-body">
@@ -48,9 +45,7 @@ layout: default
         <h3 class="panel-title">Bookshelf</h3>
       </div>
       <div class="panel-body">
-        <p>My bookshelf is organized chronologically, from the most recently read to the
-            oldest one. I try to compile here my favority books, the ones I've enjoyed
-            reading and would certainly recommend to you.</p>
+        <p>My bookshelf is organized chronologically, from the most recently read to the oldest one. I try to compile here my favorities, the ones I would certainly recommend to you.</p>
         <table class="table">
           {% tablerow book in site.data.books limit:12 offset:2 cols:2 %}
             <a target="blank" href="{{ book.link }}"><img border="0" src="{{ book.image }}"></a><img src="{{ book.another_image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

@@ -10,19 +10,19 @@ layout: null
         <description>{{ site.description }}</description>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         {% for post in site.posts %}
-        <item>
-            <title>{{ post.title }}</title>
-            <author>{{ post.author }}</author>
-            <progress>{{ post.progress }}</progress>
-            <description>
-                {{ post.content | escape | truncate: '400' }}
-            </description>
-            <image>{{ post.image }}</image>
-            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-            <guid>
-                {{ post.url | prepend: site.url }}
-            </guid>
-        </item>
+          <item>
+              <title>{{ post.title }}</title>
+              <author>{{ post.author }}</author>
+              <progress>{{ post.progress }}</progress>
+              <description>
+                  {{ post.content | escape | truncate: '400' }}
+              </description>
+              <image>{{ post.image }}</image>
+              <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+              <guid>
+                  {{ post.url | prepend: site.url }}
+              </guid>
+          </item>
         {% endfor %}
     </channel>
 </rss>

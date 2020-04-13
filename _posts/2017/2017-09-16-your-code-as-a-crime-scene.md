@@ -2,6 +2,7 @@
 layout: post
 title: "Your Code as a Crime Scene"
 author: Adam Tornhill
+progress: 100
 date: 2017-09-16 12:00:00 +0200
 categories: programming
 link: https://www.amazon.com/gp/product/1680500384/ref=as_li_tl?ie=UTF8&tag=c03ce-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1680500384&linkId=751044a1d3428473450283c75ebbad1e

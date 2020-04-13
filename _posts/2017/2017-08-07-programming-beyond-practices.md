@@ -2,6 +2,7 @@
 layout: post
 title: "Programming Beyond Practices"
 author: Gregory T. Brown
+progress: 100
 date: 2017-08-07 12:00:00 +0200
 categories: programming
 link: https://www.amazon.com/gp/product/B01LYRCGA8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LYRCGA8&linkCode=as2&tag=c03ce-20&linkId=4723ca13b811faedab0b1b51b1ce654c

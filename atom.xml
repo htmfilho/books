@@ -10,7 +10,7 @@ layout: null
         <description>{{ site.description }}</description>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         {% for post in site.posts limit:3 %}
-          {% if post.process < 100 %}
+          {% if post.progress < 100 %}
             <entry>
                 <title>{{ post.title }}</title>
                 <author>{{ post.author }}</author>

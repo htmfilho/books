@@ -21,7 +21,7 @@ layout: null
                 <image>{{ post.image }}</image>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>
-                    {{ post.url | prepend: site.url }}
+                    {{ post.url }}
                 </link>
             </entry>
           {% endif %}

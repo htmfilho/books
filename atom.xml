@@ -16,7 +16,7 @@ layout: null
                 <author>{{ post.author }}</author>
                 <progress>{{ post.progress }}</progress>
                 <summary>
-                    {{ post.content }}
+                    {{ post.content | truncate: '500' }}
                 </summary>
                 <image>{{ post.image }}</image>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>

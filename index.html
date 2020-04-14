@@ -57,7 +57,7 @@ layout: default
             <h3>{{ post.title }} <small>by {{ post.author }}</small></h3>
             <img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ book.image }}" >
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: {{ book.progress }}%;" aria-valuenow="{{ book.progress }}" aria-valuemin="0" aria-valuemax="100">{{ post.progress }}%</div>
+              <div class="progress-bar" role="progressbar" style="width: {{ post.progress }}%;" aria-valuenow="{{ post.progress }}" aria-valuemin="0" aria-valuemax="100">{{ post.progress }}%</div>
             </div>
           {% endif %}
         {% endfor %}

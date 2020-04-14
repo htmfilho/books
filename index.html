@@ -22,7 +22,7 @@ layout: default
             </header>
 
             <div class="post-content" itemprop="articleBody">
-              <img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ post.image }}" >
+              <a href="{{ post.link }}" target="_blank"><img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ post.image }}"></a>
               {{post.content}}
             </div>
           {% endif %}
@@ -54,7 +54,7 @@ layout: default
       <div class="panel-body">
         {% for post in site.posts %}
           {% if post.progress != 100 %}
-            <h3><a href="{{ post.link }}">{{ post.title }}</a> <small>by {{ post.author }}</small></h3>
+            <h3><a href="{{ post.link }}" target="_blank">{{ post.title }}</a> <small>by {{ post.author }}</small></h3>
             <img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ book.image }}" >
             <div class="progress">
               <div class="progress-bar" role="progressbar" style="width: {{ post.progress }}%;" aria-valuenow="{{ post.progress }}" aria-valuemin="0" aria-valuemax="100">{{ post.progress }}%</div>

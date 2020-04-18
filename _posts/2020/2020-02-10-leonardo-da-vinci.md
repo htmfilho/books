@@ -3,7 +3,7 @@ layout: post
 title: "Leonardo da Vinci"
 author: Walter Isaacson
 progress: 100
-date: 2020-04-18 12:00:00 +0200
+date: 2020-02-10 12:00:00 +0200
 categories: book biography
 link: https://amzn.to/2K2uhM6
 image: /books/images/posts/leonardo-da-vinci.jpg

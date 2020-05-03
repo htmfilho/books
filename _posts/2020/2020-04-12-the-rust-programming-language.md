@@ -2,7 +2,7 @@
 layout: post
 title: "The Rust Programming Language"
 author: Steve Klabnik and Carol Nichols
-progress: 5
+progress: 10
 date: 2020-04-12 12:00:00 +0200
 categories: book programming
 link: https://amzn.to/2XxmUEl

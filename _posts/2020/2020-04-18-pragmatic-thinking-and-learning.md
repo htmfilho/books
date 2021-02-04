@@ -2,7 +2,7 @@
 layout: post
 title: "Pragmatic Thinking and Learning"
 author: Andy Hunt
-progress: 14
+progress: 100
 date: 2020-04-18 12:00:00 +0200
 categories: book programming pragmatic
 link: https://amzn.to/3bnCLt6

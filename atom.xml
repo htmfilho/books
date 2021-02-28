@@ -20,7 +20,7 @@ layout: null
                 </summary>
                 <image>{{ post.image }}</image>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-                <link>{{ post.link }}</link>
+                <link>{{ post.url }}</link>
             </entry>
           {% endif %}
         {% endfor %}

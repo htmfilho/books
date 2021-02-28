@@ -12,6 +12,26 @@ layout: default
 
     <div class="panel panel-default">
       <div class="panel-body">
+        <h2>Reading...</h2>
+
+        {% for post in site.posts %}
+          {% if post.progress < 100 %}
+            <header class="post-header">
+              <h1 class="post-title">{{post.title}} <small>by {{ post.author }}</small></h1>
+              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            </header>
+
+            <div class="post-content" itemprop="articleBody">
+              <img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ post.image }}">
+              {{post.content}}
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-body">
         <h2>Latest Reviews</h2>
 
         {% for post in site.posts limit:2 offset: 2 %}
@@ -22,7 +42,7 @@ layout: default
             </header>
 
             <div class="post-content" itemprop="articleBody">
-              <a href="{{ post.link }}" target="_blank"><img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ post.image }}"></a>
+              <img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ post.image }}">
               {{post.content}}
             </div>
           {% endif %}
@@ -35,7 +55,7 @@ layout: default
     <table class="table">
       {% tablerow post in site.posts limit:6 offset:4 cols:2 %}
         {% if post.progress == 100 %}
-          <a href="{{ post.link }}"><img border="0" src="{{ post.image }}" width="42" align="left" style="margin-right: 10px;"></a><img src="{{ post.another_image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+          <img border="0" src="{{ post.image }}" width="42" align="left" style="margin-right: 10px;">
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <br>
@@ -49,32 +69,12 @@ layout: default
     <br>
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h3 class="panel-title">What I'm Reading</h3>
-      </div>
-      <div class="panel-body">
-        {% for post in site.posts %}
-          {% if post.progress != 100 %}
-            <h3><a href="{{ post.link }}" target="_blank">{{ post.title }}</a> <small>by {{ post.author }}</small></h3>
-            <img align="left" border="0" style="margin-right: 10px;" width="90" src="{{ book.image }}" >
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: {{ post.progress }}%;" aria-valuenow="{{ post.progress }}" aria-valuemin="0" aria-valuemax="100">{{ post.progress }}%</div>
-            </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-      <div class="panel-footer">
-        <a href="books">Read previous book reviews</a>
-      </div>
-    </div>
-    <br>
-    <div class="panel panel-default">
-      <div class="panel-heading">
         <h3 class="panel-title">Bookshelf</h3>
       </div>
       <div class="panel-body">
         <p>My bookshelf is organized chronologically, from the most recently read to the oldest one. I try to compile here my favorities, the ones I would certainly recommend to you.</p>
         <table class="table">
-          {% tablerow book in site.data.books limit:12 offset:2 cols:2 %}
+          {% tablerow book in site.data.books limit:12 offset:6 cols:2 %}
             {% if book.progress == 100 %}
               <a target="_blank" href="{{ book.link }}"><img border="0" src="{{ book.image }}"></a><img src="{{ book.image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
             {% endif %}

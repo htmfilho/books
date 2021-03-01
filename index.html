@@ -34,7 +34,7 @@ layout: default
       <div class="panel-body">
         <h2>Latest Reviews</h2>
 
-        {% for post in site.posts limit:2 offset: 2 %}
+        {% for post in site.posts limit:2 offset: 1 %}
           {% if post.progress == 100 %}
             <header class="post-header">
               <h1 class="post-title">{{post.title}} <small>by {{ post.author }}</small></h1>
@@ -53,7 +53,7 @@ layout: default
     <h2>Recent Reviews</h2>
 
     <table class="table">
-      {% tablerow post in site.posts limit:6 offset:4 cols:2 %}
+      {% tablerow post in site.posts limit:4 offset:3 cols:2 %}
         {% if post.progress == 100 %}
           <img border="0" src="{{ post.image }}" width="42" align="left" style="margin-right: 10px;">
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -72,11 +72,10 @@ layout: default
         <h3 class="panel-title">Bookshelf</h3>
       </div>
       <div class="panel-body">
-        <p>My bookshelf is organized chronologically, from the most recently read to the oldest one. I try to compile here my favorities, the ones I would certainly recommend to you.</p>
         <table class="table">
-          {% tablerow book in site.data.books limit:12 offset:6 cols:2 %}
-            {% if book.progress == 100 %}
-              <a target="_blank" href="{{ book.link }}"><img border="0" src="{{ book.image }}"></a><img src="{{ book.image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+          {% tablerow post in site.posts limit:12 offset:7 cols:2 %}
+            {% if post.progress == 100 %}
+              <a href="/books{{ post.url }}"><img border="0" src="{{ post.image }}"></a>
             {% endif %}
           {% endtablerow %}
         </table>

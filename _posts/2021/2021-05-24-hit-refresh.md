@@ -3,7 +3,7 @@ layout: post
 title: "Hit Refresh"
 author: Satya Nadella
 progress: 100
-date: 2021-05-24 12:00:00 +0200
+date: 2021-06-06 12:00:00 +0200
 categories: management vision mission strategy
 link: https://en.wikipedia.org/wiki/Hit_Refresh
 image: /books/images/posts/hit-refresh.jpg

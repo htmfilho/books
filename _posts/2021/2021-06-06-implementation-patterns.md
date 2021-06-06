@@ -2,7 +2,7 @@
 layout: post
 title: "Implementation Patterns"
 author: Kent Beck
-progress: 1
+progress: 10
 date: 2021-06-06 12:00:00 +0200
 categories: programming patterns
 link: https://www.informit.com/store/implementation-patterns-9780321413093

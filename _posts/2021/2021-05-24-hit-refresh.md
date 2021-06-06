@@ -9,7 +9,7 @@ link: https://en.wikipedia.org/wiki/Hit_Refresh
 image: /books/images/posts/hit-refresh.jpg
 ---
 
-Satya Nadella, with the help of Greg Shaw and Tracie Nichols, writes about his career at Microsoft and his recent engagement as the CEO of the company. He has been at Microsoft for more than 2 decades, a rich career within the company but pretty discreet for outsiders. He took the opportunity to present himself and his personal history before jumping into Microsoft. He went through his growth up to achieving the position of the third CEO of a company with more than 40 years of history. By the end of the book he discusses the years ahead, the subjects Microsoft needs to engage to remain relevant.
+Satya Nadella, with the help of Greg Shaw and Tracie Nichols, writes about his career at Microsoft and his recent engagement as the CEO of the company. He has been at Microsoft for more than 2 decades, a rich career within the company but pretty discreet for outsiders. He took the opportunity to present himself and his personal story before jumping into Microsoft. He went through his growth up to achieving the position of the third CEO of a company with more than 40 years of history. By the end of the book he discusses the years ahead, the subjects Microsoft needs to engage to remain relevant.
 
 Some critics say this book was written for Microsoft employees. I have to agree with them. It feels like a pretty long memo to transform the company's culture. But it doesn't make it a bad book. I liked it because it helped me to understand why I changed my mind about Microsoft, a company that is now more relevant to me than Google and Amazon was 3 years ago.
 

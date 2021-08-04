@@ -4,25 +4,23 @@ layout: null
 
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-    <channel>
-        <title>{{ site.title }}</title>
-        <link>{{ site.url }}</link>
-        <description>{{ site.description }}</description>
-        <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-        {% for post in site.posts limit:3 %}
-          {% if post.progress < 100 %}
-            <entry>
-                <title>{{ post.title }}</title>
-                <author>{{ post.author }}</author>
-                <progress>{{ post.progress }}</progress>
-                <summary>
-                    {{ post.content | truncate: '500' }}
-                </summary>
-                <image>{{ post.image }}</image>
-                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-                <link>{{ post.url }}</link>
-            </entry>
-          {% endif %}
-        {% endfor %}
-    </channel>
+  <channel>
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}</link>
+    <description>{{ site.description }}</description>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    {% for post in site.posts limit:3 %}
+      <entry>
+        <title>{{ post.title }}</title>
+        <author>{{ post.author }}</author>
+        <progress>{{ post.progress }}</progress>
+        <summary>
+            {{ post.content | truncate: '500' }}
+        </summary>
+        <image>{{ post.image }}</image>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.url }}</link>
+      </entry>
+    {% endfor %}
+  </channel>
 </rss>

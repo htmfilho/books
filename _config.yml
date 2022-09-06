@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   to publish exclusive content, which usually comes out after some research or
   thoughts of my own.
 baseurl: "/books"
-url: "http://www.hildeberto.com/books/"
+url: "https://www.hildeberto.com/books/"
 permalink: /:year/:month/:title.html
 excerpt_separator: "<!-- more -->"
 

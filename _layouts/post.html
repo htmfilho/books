@@ -28,10 +28,10 @@ layout: default
 
       <div class="PageNavigation">
       {% if page.previous.url %}
-        <a class="btn btn-default" href="/books{{page.previous.url}}" title="{{page.previous.title}}">&laquo; Previous</a>
+        <a class="btn btn-default" href="{{site.baseurl}}{{page.previous.url}}" title="{{page.previous.title}}">&laquo; Previous</a>
       {% endif %}
       {% if page.next.url %}
-        <a class="btn btn-default pull-right" href="/books{{page.next.url}}" title="{{page.next.title}}">Next &raquo;</a>
+        <a class="btn btn-default pull-right" href="{{site.baseurl}}{{page.next.url}}" title="{{page.next.title}}">Next &raquo;</a>
       {% endif %}
     </div>
     </article>
